@@ -1,3 +1,8 @@
+body {
+  background-color: #c0c0c0;
+}
+
+
 .carousel-control.left
 {
 	background: none;
@@ -60,4 +65,11 @@
 	color: #fff;
 	text-align: center;
 	background: rgba(0,0,0,0.4);
+}
+
+#id myCarousel {
+  border: 20px;
+}
+.row {
+  margin-top: 20px;
 }
