@@ -32,6 +32,7 @@ body {
 .carousel-indicators
 {
 	bottom: -50px;
+	margin-bottom: 20px;
 }
 .carousel-indicators li
 {
