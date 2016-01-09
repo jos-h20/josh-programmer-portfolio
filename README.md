@@ -10,7 +10,7 @@ _A landing page with describing projects I've worked on and a little bit of my b
 
 ## Setup/Installation Requirements
 
-* _Click on the link jos-h20.github.io/josh-programmer-portfolio_
+* _Click on the link http://jos-h20.github.io/josh-programmer-portfolio_
 
 
 ## Known Bugs
